@@ -1,0 +1,18 @@
+{
+  "characters": [
+    {
+      "id": "1",
+      "name": "John Snow",
+      "actor": {
+        "name": "Kit Harington"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Sansa Stark",
+      "actor": {
+        "name": "Sophie Turner"
+      }
+    }
+  ]
+}
